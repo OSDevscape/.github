@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="logo.png" width="250" alt="OSDevscape Logo">
+  <img src="/Assets/Logo.png" width="250" alt="OSDevscape Logo">
 </p>
 
-# 🚀 OSDevscape
+---
 
-**OSRS tooling by players, for players.** Discord bot • REST API • Website.
+<p align="center">
+<strong>OSRS tooling by players, for players.</strong><br>
+Discord bot • REST API • Website.
+</p>
 
 ---
 
 ## 🎯 Mission
-Level up clans with reliable, open-source tools.
+Leveling up your Clan's Discord server with this reliable, open-source tool.
 
 ---
 
@@ -23,4 +26,4 @@ Level up clans with reliable, open-source tools.
 ## 🤝 Contribute
 - ⭐ Star 
 - 🐛 PRs welcome
-- 💬 Discord soon
+- 💬 [Support Server](https://discord.gg/GXQcjh5wAm) 
